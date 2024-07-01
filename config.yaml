@@ -1,6 +1,6 @@
-tunnel: 72231e71-17ff-45ab-958c-b4cc8e2566a1
+tunnel: bc9c6cd6-33f7-4be3-8481-f3b079922d7a
 credentials:
-  apiToken: eyJhIjoiMDUxMTk3MzdiYTA2MGE3M2M2MjcxNjI2M2ViZWEwMjkiLCJ0IjoiNzIyMzFlNzEtMTdmZi00NWFiLTk1OGMtYjRjYzhlMjU2NmExIiwicyI6IlkyVTBNV05pWXpRdE5UYzNOaTAwWVdJNUxXSmxOR1F0TUdNd1ptUmlZVEZoTm1RNCJ9
+  apiToken: eyJhIjoiMDUxMTk3MzdiYTA2MGE3M2M2MjcxNjI2M2ViZWEwMjkiLCJ0IjoiYmM5YzZjZDYtMzNmNy00YmUzLTg0ODEtZjNiMDc5OTIyZDdhIiwicyI6Ik16Qm1ZakF4T0RBdE9HUXlaUzAwTlRNeUxXSmhNall0TldFek5XUmpPVGMyTVRneCJ9
 
 ingress:
   - hostname: t1.seed.us.kg
