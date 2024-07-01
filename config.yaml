@@ -1,8 +1,0 @@
-tunnel: bc9c6cd6-33f7-4be3-8481-f3b079922d7a
-credentials:
-  apiToken: eyJhIjoiMDUxMTk3MzdiYTA2MGE3M2M2MjcxNjI2M2ViZWEwMjkiLCJ0IjoiYmM5YzZjZDYtMzNmNy00YmUzLTg0ODEtZjNiMDc5OTIyZDdhIiwicyI6Ik16Qm1ZakF4T0RBdE9HUXlaUzAwTlRNeUxXSmhNall0TldFek5XUmpPVGMyTVRneCJ9
-
-ingress:
-  - hostname: t1.seed.us.kg
-    service: http://localhost:7860
-  - service: http_status:404
